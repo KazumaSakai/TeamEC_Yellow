@@ -39,3 +39,7 @@ CDを購入できるECsite
 | データベース 　| Mysql                  |
 | 使用言語　　 　| Java                   |
 | フレームワーク | Struts2                |
+
+## 他に作成したプロジェクト
+ - [ポートフォリオ](https://github.com/KazumaSakai/Portfolio)
+
